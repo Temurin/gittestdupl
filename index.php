@@ -11,5 +11,6 @@
   echo "this is a dish<br>";
   echo "this is a dish too<br>";
   echo "that's carpet<br>";
+  echo "it's stove<br>";
 ?>
 </body>
