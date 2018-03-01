@@ -12,5 +12,6 @@
   echo "this is a dish too<br>";
   echo "that's carpet<br>";
   echo "it's stove<br>";
+  echo "many flower, and a chouchou<br>";
 ?>
 </body>
